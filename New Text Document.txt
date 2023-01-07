@@ -1,0 +1,136 @@
+
+<section id="service">
+    <div class="services">
+      <h1>SERVICES</h1>
+      <P>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</P>
+    
+      <div class="skills">
+    
+    
+    <div class="skill">
+        <div class="icon">
+        <i class="fa-solid fa-laptop"></i></div>
+      <h2>WEB DESIGN</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+    </div>
+    
+    <div class="skill">
+        <div class="icon">
+        <i class="fa-solid fa-bullhorn"></i></div>
+      <h2>Branding</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+    </div>
+    
+    
+    <div class="skill">
+        <div class="icon">
+        <i class="fa-solid fa-umbrella"></i></div>
+      <h2>Development </h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+    </div>
+    
+    
+    <div class="skill">
+        <div class="icon">
+        <i class="fa-regular fa-gem"></i></div>
+      <h2>Creative Design</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+    </div>
+    
+    
+    <div class="skill">
+        <div class="icon">
+        <i class="fa-solid fa-tv"></i></div>
+      <h2>GFully Responsive</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+    </div>
+    
+    
+    
+    <div class="skill">
+        <div class="icon">
+        <i class="fa-solid fa-camera"></i></div>
+      <h2>Retina Ready</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni adipisci eaque autem fugiat! Quia, provident vitae! Magni tempora perferendis eum non provident.</p>
+    </div>
+    
+    
+    
+    
+    
+    
+    
+    
+      </div>
+    
+    </div>
+    </section>
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* section 3 */
+
+
+.services{
+    FONT-FAMILY: sans-serif;
+margin-top: 200px;
+    text-align: center;
+}
+
+
+.skills{
+    text-align: center;
+    display: flex;
+    width: 100%;
+justify-content: center;
+margin-top: 70px;
+flex-wrap: wrap;
+
+}
+	
+.skill p{
+    margin-bottom: 30px;
+}
+
+.skill h2{
+    font-size: 20px;
+}
+.skill:hover{
+
+    box-shadow: 1px 1px 5px 1px rgb(176 173 173);
+}
+
+.icon{
+    text-align: center;
+    width: 20%;
+background-color: aquamarine;
+    font-size: 30px
+}
